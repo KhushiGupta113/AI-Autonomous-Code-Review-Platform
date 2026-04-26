@@ -9,26 +9,20 @@ This platform now supports **Groq**, allowing you to perform high-quality AI cod
 
 ## 📸 Project Showcase
 ### Landing Page
-![Landing Page](./screenshots/landing.png)
-
-### Dashboard & Analysis
-![Dashboard](./screenshots/dashboard.png)
+![Landing Page](./screenshots/LandingPage.png)
 
 ---
 
 ## 🎓 Assignment Proof (Docker Requirements)
 
-### 1. Docker Image Build
-![Docker Build](./screenshots/build.png)
+### 1. Running Containers
+![Docker Up](./screenshots/RunningContainers.png)
 
-### 2. Running Containers
-![Docker Up](./screenshots/up.png)
+### 2. Docker PS Output
+![Docker PS](./screenshots/DockerPs.png)
 
-### 3. Docker PS Output
-![Docker PS](./screenshots/ps.png)
-
-### 4. Docker Desktop Status
-![Docker Desktop](./screenshots/desktop.png)
+### 3. Docker Desktop Status
+![Docker Desktop](./screenshots/DockerDesktop.png)
 
 ---
 
