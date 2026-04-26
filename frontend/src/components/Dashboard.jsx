@@ -147,7 +147,7 @@ const Dashboard = () => {
              <div className="h-2 w-full bg-slate-900 rounded-full overflow-hidden border border-white/5">
                 <div className="h-full premium-gradient" style={{ width: `${analysis.complexity_score}%` }} />
              </div>
-             <p className="text-center text-slate-400 text-sm">Target: > 80 for production readiness</p>
+             <p className="text-center text-slate-400 text-sm">Target: &gt; 80 for production readiness</p>
           </div>
         </div>
       </div>
