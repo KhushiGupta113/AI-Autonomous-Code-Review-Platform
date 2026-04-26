@@ -15,13 +15,16 @@ This platform now supports **Groq**, allowing you to perform high-quality AI cod
 
 ## 🎓 Assignment Proof (Docker Requirements)
 
-### 1. Running Containers
+### 1. Docker Image Build
+![Docker Build](./screenshots/Docker%20image%20build.png)
+
+### 2. Running Containers
 ![Docker Up](./screenshots/RunningContainers.png)
 
-### 2. Docker PS Output
-![Docker PS](./screenshots/DockerPs.png)
+### 3. Docker PS Output
+![Docker Ps](./screenshots/DockerPs.png)
 
-### 3. Docker Desktop Status
+### 4. Docker Desktop Status
 ![Docker Desktop](./screenshots/DockerDesktop.png)
 
 ---
